@@ -1,0 +1,22 @@
+body {
+
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    text-align: center;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 200px;
+
+}
+
+label {
+
+    font-size: 20px;
+
+}
+
+h1 {
+
+    font-size: 30px;
+}
